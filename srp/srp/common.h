@@ -4,6 +4,8 @@
 #include <stdlib.h>
 #include <time.h>
 
+#include "interface.h"
+
 #define GAME_STR_DRAW	"÷ס±ט"
 #define GAME_STR_WIN	"ÀÌ±ט"
 #define GAME_STR_LOSE	"Áü"
